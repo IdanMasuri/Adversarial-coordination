@@ -1,0 +1,7 @@
+﻿type,vn,intercept,opposite_local_inv,opposite_local_vis,current_local_inv,current_local_vis,inv_neighbors,vis_neighbors
+reg,no,-3.98,2.65,0,-0.33,0,-0.01,0
+reg,yes,-3.79,1.1,1.48,-0.87,0.09,0,-0.03
+vis,no,-4.11,2.7,0,-0.1,0,-0.01,0
+vis,yes,-3.53,1.07,1.27,-0.33,-0.29,-0.06,0
+adv,no,-2.8,-1.13,0,1.19,0,0,0
+adv,yes,-2.72,-0.6,-0.37,0.95,0.3,0,-0.2

@@ -1,0 +1,7 @@
+﻿type,vn,intercept,diff_inv,diff_vis,inv_neighbors,vis_neighbors
+reg,no,-1.952,1.29,0,0,0
+reg,yes,-2.21,0.548,0.933,0.002,0.016
+vis,no,-2.045,1.742,0,0.04,0
+vis,yes,-1.734,0.579,0.84,-0.061,0.048
+adv,no,-2.284,1.25,0,0.011,0
+adv,yes,-2.744,0.802,0.662,0.025,0.155
