@@ -1,0 +1,4 @@
+barabasi-albert unstructured adversarial 15 visibleconsensusnodes 0 concensusnodes 10
+barabasi-albert unstructured adversarial 15 visibleconsensusnodes 1 concensusnodes 10
+barabasi-albert unstructured adversarial 15 visibleconsensusnodes 2 concensusnodes 10
+barabasi-albert unstructured adversarial 15 visibleconsensusnodes 5 concensusnodes 10
