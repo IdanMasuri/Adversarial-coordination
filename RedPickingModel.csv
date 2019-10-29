@@ -1,7 +1,0 @@
-﻿type,vn,intercept,green_local_inv,green_local_vis,red_local_inv,red_local_vis
-reg,no,0,-4.863,0,5.032,0
-reg,yes,-0.066,-2.855,-2.022,3.453,1.733
-vis,no,0.109,-4.411,0,4.202,0
-vis,yes,0.188,-3.215,-1.599,2.395,1.996
-adv,no,-0.023,0.817,0,-0.649,0
-adv,yes,-0.286,0.172,0.732,-0.204,0
