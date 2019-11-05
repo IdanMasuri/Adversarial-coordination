@@ -1,7 +1,8 @@
 this project models a group coordination for achieving a consensus in an adversarial environment. the process includes:
 real life experiments → gathering the data→ extracting a behavioral stochastic model → creating a data driven based agent that should strengthen the group against attacks which consequently improves the consensus rate.
 
-Citations
+Citations:
+
 Our paper is cited as:
 @inproceedings{hajaj2019adversarial,
   title={Adversarial Coordination on Social Networks},
